@@ -1,5 +1,4 @@
 function diamond(size) {
-
   if (size <= 1 || size % 2 === 0) return null
   let diamond ='';
   let char = '*'
